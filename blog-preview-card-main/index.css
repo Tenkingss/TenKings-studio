@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    display: flex;
+    margin: 0%;
+    background-color: yellow;
+}
+
+.card-button {
+    display: flex;
+    height: 45%;
+    width:23.5%;
+   text-align: justify;
+   margin-top:145px;
+   margin-left: 35%;
+   padding: 12px;
+   
+    border-radius: 17px;
+    align-items: start;
+    background-color: aliceblue;
+ 
+}
+
+.learning {
+font-weight: bold;
+
+}
